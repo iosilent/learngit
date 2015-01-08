@@ -9,3 +9,4 @@
 已有5000+次微博分享，如果你觉得不错，不要忘了分享给他人哦！
 
 立刻开始学习：
+Creating a new branch is quick.
